@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;  
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    font-family: 'Red Hat Display', sans-serif;
+    margin-top: 20px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+body {    
+    background-image: url(images/pattern-background-desktop.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.root {    
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;   
+    border-radius: 20px 20px 20px 20px;
+    height: 670px;
+    width: 450px;    
+    text-align: center;
+    background-color: white;
+}
+
+.annual {
+    display: inline-block;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    width: 350px;
+    height: 100px;
+    background-color: hsl(225, 100%, 98%);        
+}
+
+.btpagar {
+    border-radius: 10px 10px 10px 10px;       
+    width: 350px;
+    height: 50px;
+    background-color: hsl(245, 75%, 52%);    
+    display:inline-block;    
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+}
+
+.payment {
+    color: white;
+    text-decoration: none;
+}
+
+.change {
+    margin-top: 35px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Red Hat Display', sans-serif;    
+}
+
+.annualtext1 {
+    margin-top: 30px;
+    margin-right: 80px;
+    display:inline-block;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+}
+
+.play {
+    margin-top: 25px;
+    margin-left: 20px;
+    float: left;
+}
+
+.corpo {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;    
+}
+
+.dancehero {
+    border-radius: 20px 20px 0px 0px;
+}
+
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    margin-bottom: 0;    
+}
+
+.cancel {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+}
